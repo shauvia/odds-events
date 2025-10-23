@@ -1,4 +1,4 @@
-const bank = [7, 5, 8, 3, 654, 999, 2, 98, 55, 654, 666, 333];
+const bank = [];
 
 const odds = [];
 
