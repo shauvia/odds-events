@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+p {
+  margin: 5px 0;
+}
